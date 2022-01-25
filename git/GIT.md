@@ -79,6 +79,4 @@
 
 `git remote -v ` ：查看当前所有远程地址别名
 
-<img src="D:\软件\typora\笔记资源\图片资源\image-20220124125339777.png" width="80%">
-
-  `git push  别名 分支名`
+  `git push  别名 分支名`：将代码提交到远程地址中
